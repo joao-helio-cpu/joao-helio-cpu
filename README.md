@@ -1,4 +1,4 @@
-## Oi, eu sou o João Hélio e eu tenho 18 anos.
+## Oi, eu sou o João Hélio e eu tenho 18 anos. Sou fotógrafo
 
 <!--
 **joao-helio-cpu/joao-helio-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
